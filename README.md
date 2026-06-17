@@ -17,12 +17,11 @@ PPT/
 │   ├── Figures/             # 音乐人/乐队图（David Bowie, Freddie Mercury, Beatles 等）
 │   ├── Album/               # 摇滚专辑封面（约 40 张）
 │   └── Reference/           # 参考素材（荒木画稿、动作参考等）
-├── Audio/                   # 配乐参考
-│   ├── The Beatles - Hey Jude.mp3
-│   ├── Killer Queen.mp3
-│   ├── Gold.mp3
-│   └── ...（共 5 首）
-└── Video/                   # 视频素材（未上传）
+└── Audio/                   # 配乐参考
+    ├── The Beatles - Hey Jude.mp3
+    ├── Killer Queen.mp3
+    ├── Gold.mp3
+    └── ...（共 5 首）
 ```
 
 ## 内容特色
