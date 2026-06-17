@@ -1,0 +1,6 @@
+# 不上传视频
+Video/
+
+# Windows 系统文件
+Thumbs.db
+desktop.ini
